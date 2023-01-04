@@ -1,0 +1,43 @@
+.orderTracking__ad{
+    height: 60px;
+    margin-left: auto;
+    margin-top: 0;
+    margin-right: auto;
+}
+.orderTracking{
+    display: flex;
+    justify-content: center;
+}
+
+.orderTracking__noInfo{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100vh;
+}
+.orderTracking__Info{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.checkoutProducts{
+
+    margin-top: 20px;
+}
+.orderTrackingLists{
+    height: 100vh;
+}
+
+.orderTrackingLists__checkoutProducts{
+    display: flex;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.5rem;
+    background-color: white;
+    padding: 20px;
+}
